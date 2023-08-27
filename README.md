@@ -1,5 +1,5 @@
 # FinFrog- Payment Website:
-The FinFrog Payment Website is an online platform designed to provide seamless payment solutions and a user-friendly experience. Built using HTML, CSS, JavaScript, and external libraries, the website offers secure transactions, bill payments, subscription plans, and more.
+The FinFrog Payment Website is an online platform designed to provide seamless payment solutions and a user-friendly experience, the website offers secure transactions, bill payments, subscription plans, and more.
 
 ## Demo
 Experience  Landing Page in action by visiting our live demo:
